@@ -24,7 +24,7 @@ import Ledger3 from './vendor/ledger3';
 import LedgerEth from './vendor/ledger-eth';
 
 const LEDGER_PATH_ETC = "44’/60’/160720'/0'/0";
-const LEDGER_PATH_ETH = "44'/60'/0'/0";
+const LEDGER_PATH_ETH = "44'/60'/0'/1";
 const SCRAMBLE_KEY = 'w0w';
 
 function numberToHex (number) {
